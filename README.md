@@ -1,11 +1,11 @@
 
-# Hey, I'm José!
+# 👋🏻 Hey, I'm José!
 
-- I'm Backend Developer from Guatemala!
+- 💻 I'm Backend Developer from Guatemala!
 
-- I have solid knowledge of web development using `Python` and `Django`
+- 🐍 I have solid knowledge of web development using `Python` and `Django`
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian)](https://git.io/streak-stats)
 
