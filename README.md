@@ -5,7 +5,8 @@
 
 - 🐍 I have solid knowledge of web development using `Python` and `Django`
 
-![Banner Backend](https://github.com/user-attachments/assets/96359da4-3c01-48ae-93a6-30fe3b23946b)
+![Banner Backend](https://github.com/user-attachments/assets/c832d179-b166-4e6e-bde8-ca8470571992)
+
 
 ### 📊 GitHub Stats
 
