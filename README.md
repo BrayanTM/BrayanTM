@@ -7,9 +7,9 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&theme=prussian)
 
