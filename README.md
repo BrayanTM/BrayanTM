@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian)
 
