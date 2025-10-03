@@ -1,17 +1,85 @@
 
-# 👋🏻 Hey, I'm José!
-
-- 💻 I'm Backend Developer from Guatemala!
-
-- 🐍 I have solid knowledge of web development using `Python` and `Django`
+# Hello, I'm José 👋
 
 ![Banner](https://github.com/user-attachments/assets/c58bb791-0b54-4fd3-b051-706099232ac6)
 
+<div align="center">
+  <h3>🚀 Backend Developer | Python Enthusiast | Django</h3>
+  <p><em>Building robust and scalable web solutions from Guatemala 🇬🇹</em></p>
+</div>
 
+---
 
-### 📊 GitHub Stats
+## 🤖 About Me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian)  
+I'm a passionate **Backend Developer** with expertise in creating efficient, scalable web applications. I specialize in **Python** and **Django**, focusing on clean architecture and best development practices.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian&rank_icon=github) &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&card_width=350&theme=prussian)
+- 🌍 **Location:** Guatemala
+- 💼 **Focus:** Backend Development, Web APIs, Database Design
+- 🎯 **Specialization:** Python, Django, RESTful APIs
+- 📚 **Always Learning:** New technologies and best practices
+- 💡 **Philosophy:** Clean code, scalable solutions, continuous improvement
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian&hide_border=true&border_radius=10)
+
+<br/>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian&hide_border=true&border_radius=10&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&theme=prussian&hide_border=true&border_radius=10&card_width=350)
+
+</div>
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+- **🏗️ Backend Architecture:** Design and implement scalable backend systems
+- **🔗 API Development:** Create robust RESTful APIs
+- **💾 Database Design:** Optimize database structures and queries
+- **🔧 System Integration:** Connect different services and third-party APIs
+- **⚡ Performance Optimization:** Enhance application speed and efficiency
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josebtm/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayantebelan@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=BrayanTM&color=blueviolet&style=flat-square&label=Profile+Views)
+</div>
