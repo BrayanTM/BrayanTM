@@ -4,7 +4,7 @@
 ![Banner](https://github.com/user-attachments/assets/c58bb791-0b54-4fd3-b051-706099232ac6)
 
 <div align="center">
-  <h3>🚀 Backend Developer | Python Enthusiast | Django</h3>
+  <h3>🚀 Backend Developer | Python Enthusiast | AWS Enthusiast</h3>
   <p><em>Building robust and scalable web solutions from Guatemala 🇬🇹</em></p>
 </div>
 
@@ -30,6 +30,8 @@ I'm a passionate **Backend Developer** with expertise in creating efficient, sca
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
