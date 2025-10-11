@@ -1,7 +1,7 @@
 
 # Hello, I'm José 👋
 
-![Banner](https://github.com/user-attachments/assets/c58bb791-0b54-4fd3-b051-706099232ac6)
+![Banner](https://github.com/user-attachments/assets/91788c75-0ee3-4ca8-ade1-8d4ce9b47d08)
 
 <div align="center">
   <h3>🚀 Backend Developer | Python Enthusiast | AWS Enthusiast</h3>
