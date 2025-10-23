@@ -83,7 +83,7 @@ I'm a passionate **Backend Developer** with expertise in creating efficient, sca
 ---
 
 <div align="center">
-  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
-  
+  <p><em>“Anything that can go wrong, will go wrong.”</em> — Murphy’s Law</p>
+   
   ![Profile Views](https://komarev.com/ghpvc/?username=BrayanTM&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
