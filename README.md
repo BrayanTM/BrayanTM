@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h3>🚀 Backend Developer | Python Enthusiast | AWS Enthusiast</h3>
+  <h3>🚀 Full Stack Developer | Python Enthusiast | AWS Enthusiast</h3>
   <p><em>Building robust and scalable web solutions from Guatemala 🇬🇹</em></p>
 </div>
 
