@@ -1,7 +1,8 @@
 
 # Hello, I'm José 👋
 
-![Banner Full Stack](https://github.com/user-attachments/assets/29ddd41e-b220-4c01-9bac-15d32b0a9046)
+![Banner Full Stack](https://github.com/user-attachments/assets/9aa77136-3b78-4c8a-beba-5929cb2b1dfc)
+
 
 <div align="center">
   <h3>🚀 Full Stack Developer | Python Enthusiast | AWS Enthusiast</h3>
