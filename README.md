@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** with expertise in creating efficient, 
 - 🌍 **Location:** Guatemala
 - 💼 **Focus:** Backend Development, Web APIs, Database Design, Cloud Solutions
 - 🎯 **Specialization:** Python, Django, FastAPI, RESTful APIs, AWS
-- 📚 **Always Learning:** Microservices Architecture, Event-Driven Systems, Kubernetes
+- 📚 **Always Learning:** New technologies and best practices
 - 💡 **Philosophy:** Clean code, scalable solutions, continuous improvement, Agile methodologies
 - 🌐 **Languages:** Spanish (Native), English (Intermediate B1)
 
