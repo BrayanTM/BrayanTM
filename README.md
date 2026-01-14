@@ -85,15 +85,15 @@ I'm a passionate **Full Stack Developer** with expertise in creating efficient, 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=BrayanTM&theme=neon&hide_border=true&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=BrayanTM&theme=prussian&hide_border=true&border_radius=10)
 
 <br/>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian&hide_border=true&border_radius=10&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BrayanTM&show_icons=true&theme=prussian&hide_border=true&border_radius=10&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&theme=prussian&hide_border=true&border_radius=10&card_width=350)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BrayanTM&layout=compact&theme=prussian&hide_border=true&border_radius=10&card_width=350)
 
 </div>
 
