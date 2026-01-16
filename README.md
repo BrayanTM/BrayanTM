@@ -61,6 +61,20 @@ I'm a passionate **Full Stack Developer** with expertise in creating efficient, 
 
 </div>
 
+### Testing & Quality Assurance
+
+<div align="center">
+
+![PyTest](https://img.shields.io/badge/PyTest-4B8BBE?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-646CFF?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B328C?style=for-the-badge&logo=eslint&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-000000?style=for-the-badge&logo=ruff&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+</div>
+
 ### Databases
 
 <div align="center">
@@ -90,6 +104,7 @@ I'm a passionate **Full Stack Developer** with expertise in creating efficient, 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
 
 </div>
