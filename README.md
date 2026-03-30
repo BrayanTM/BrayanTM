@@ -3,7 +3,7 @@
 ![Banner Full Stack](https://github.com/user-attachments/assets/9aa77136-3b78-4c8a-beba-5929cb2b1dfc)
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | Python Enthusiast | AWS Enthusiast</h3>
+  <h3>🚀 Full Stack Developer | Systems Engineer</h3>
   <p><em>Building robust and scalable web solutions from Guatemala 🇬🇹</em></p>
 </div>
 
