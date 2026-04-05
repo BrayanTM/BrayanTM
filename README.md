@@ -164,9 +164,7 @@ I'm a passionate **Full Stack Developer** with expertise in creating efficient, 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=BrayanTM&theme=prussian&hide_border=true&border_radius=10)
-
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanTM&theme=prussian&hide_border=true&border_radius=10)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
